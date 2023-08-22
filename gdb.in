@@ -1,0 +1,4 @@
+b my_setup
+b malloc_buddy
+b my_malloc
+r
